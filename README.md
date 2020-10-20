@@ -4,3 +4,5 @@
 - AML 4.0 supported
 - Especially for Android 11, don't use ACDB for now!
 - Enjoy the Atmos 🎧
+- Optional: [Audio Compatibility Patch Ryuki Mod](https://github.com/reiryuki/Audio-Compatibility-Patch-Ryuki-Mod)
+
