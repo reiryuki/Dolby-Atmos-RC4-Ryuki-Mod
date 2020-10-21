@@ -1,12 +1,16 @@
 # Dolby Atmos RC4 Ryuki Mod
 
 ## Requirements
-- For Any Android 9, 10, and 11
+- Android 9, 10, or 11 devices
+
+## Optional
 - AML 4.0 supported
-- Especially for Android 11, don't use ACDB for now!
-- Enjoy the Atmos 🎧
-- Optional: [Audio Compatibility Patch Ryuki Mod](https://github.com/reiryuki/Audio-Compatibility-Patch-Ryuki-Mod)
+- ACDB supported (Android 9 and 10 only for now)
+- [Audio Compatibility Patch Ryuki Mod](https://github.com/reiryuki/Audio-Compatibility-Patch-Ryuki-Mod)
 
 ## Troubleshooting
-- Reinstall and reboot
-- Make sure manifest.xml is patched correctly
+- If you encounter force close, just reboot again.
+- Make sure manifest.xml is patched correctly.
+
+
+           - Enjoy the Atmos 🎧 -
