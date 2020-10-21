@@ -9,7 +9,7 @@
 - [Audio Compatibility Patch Ryuki Mod](https://github.com/reiryuki/Audio-Compatibility-Patch-Ryuki-Mod)
 
 ## Troubleshooting
-- If you encounter force close, just reboot again.
+- If you encounter force close, reinstall again.
 - Make sure manifest.xml is patched correctly.
 
 
