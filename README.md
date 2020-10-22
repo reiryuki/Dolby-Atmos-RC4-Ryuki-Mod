@@ -2,14 +2,16 @@
 
 ## Requirements
 - Android 9, 10, or 11 devices
+- Magisk installed
+- Don't use with another Dolby module!
 
 ## Optional
 - AML 4.0 supported
 - ACDB supported (Android 9 and 10 only for now)
-- [Audio Compatibility Patch Ryuki Mod](https://github.com/reiryuki/Audio-Compatibility-Patch-Ryuki-Mod)
+- Use Audio Compatibility Patch if you encounter processing problem
 
 ## Troubleshooting
-- If you encounter force close, reinstall again.
+- If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
 
 
