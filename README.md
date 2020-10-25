@@ -1,6 +1,6 @@
 # Dolby Atmos RC4 Ryuki Mod
 
-# Descriptions
+## Descriptions
 Based on Dolby Atmos RC4 from gh.
 
 ## Requirements
