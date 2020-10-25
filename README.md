@@ -21,6 +21,6 @@
 - Make sure manifest.xml is patched correctly.
 
 ## Attention!
-Reporting anything without proper logcat is ignored!
+- Reporting anything without proper logcat is ignored!
 
            - Enjoy the Atmos 🎧 -
