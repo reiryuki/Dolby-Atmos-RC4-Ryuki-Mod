@@ -20,5 +20,7 @@
 - If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
 
+## Attention!
+Reporting anything without proper logcat is ignored!
 
            - Enjoy the Atmos 🎧 -
