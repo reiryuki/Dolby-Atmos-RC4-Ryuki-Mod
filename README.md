@@ -1,5 +1,8 @@
 # Dolby Atmos RC4 Ryuki Mod
 
+# Descriptions
+Based on Dolby Atmos RC4 from gh.
+
 ## Requirements
 - Android 9, 10, or 11 devices
 - Magisk installed
