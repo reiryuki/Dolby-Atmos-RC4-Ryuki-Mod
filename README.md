@@ -16,7 +16,7 @@ An EQ based on Dolby Atmos RC4 from @guitardedhero. Bloobs are known modded from
 
 ## Optional
 - AML 4.0 supported
-- ACDB supported (Android 9 and 10 only for now)
+- ACDB supported (Android 10 and bellow only for now)
 - Use Audio Compatibility Patch if you encounter processing problem
 - If you don't feel the bass, rename dap-default.mod to dap-default.xml in /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Delete
  /data/vendor/dolby/dap-sqlite3.db if there and reboot.
