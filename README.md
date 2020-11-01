@@ -1,10 +1,10 @@
 # Dolby Atmos RC4 Ryuki Mod
 
 ## Descriptions
-Based on Dolby Atmos RC4 from gh.
+An EQ based on Dolby Atmos RC4 from @guitardedhero. Bloobs are known modded from ZTE A2019 Pro for 64 bit and Lenovo TB-7305I for 32 bit.
 
 ## Requirements
-- Android 9, 10, or 11 devices
+- Android 9, 10, or 11 64 and 32 bit devices
 - Magisk installed
 - Don't use with another Dolby module!
 
@@ -24,6 +24,9 @@ Based on Dolby Atmos RC4 from gh.
 - Make sure manifest.xml is patched correctly.
 
 ## Attention!
-- Reporting anything without proper logcat is ignored!
+- Reporting anything without sending full logcats and install process logs is ignored!
+https://play.google.com/store/apps/details?id=com.dp.logcatapp
+
+
 
            - Enjoy the Atmos 🎧 -
