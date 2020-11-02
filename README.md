@@ -18,17 +18,18 @@ An EQ based on Dolby Atmos RC4 from @guitardedhero. Bloobs are known modded from
 - AML 4.0 supported
 - ACDB supported (Android 10 and bellow only for now)
 - Use Audio Compatibility Patch if you encounter processing problem
-- If you don't feel the bass, rename dap-default.mod to dap-default.xml in /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Delete
- /data/vendor/dolby/dap-sqlite3.db if there and reboot.
 
 ## Troubleshooting
 - If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
+- Bass enhancer boost headphone is modified in v1.5 and up. If you don't like it, just rename dax-default.orig to dax-default.xml.
 
 ## Attention!
 - Reporting anything without sending full logcats and install process logs is ignored!
 https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
-
+## Credits
+- @guitardedhero
+- dolby_dax.jar recompiled by @aip_x
 
            - Enjoy the Atmos 🎧 -
