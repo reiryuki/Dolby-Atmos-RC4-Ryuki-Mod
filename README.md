@@ -1,7 +1,8 @@
 # Dolby Atmos RC4 Ryuki Mod
 
 ## Descriptions
-An EQ based on Dolby Atmos RC4 from @guitardedhero. Bloobs are known modded from ZTE A2019 Pro for 64 bit and Lenovo TB-7305I for 32 bit.
+- An EQ based on Dolby Atmos RC4 from @guitardedhero.
+- Bloobs known modded from ZTE A2019 Pro for 64 bit and Lenovo TB-7305I for 32 bit.
 
 ## Requirements
 - Android 9, 10, or 11 64 and 32 bit devices
