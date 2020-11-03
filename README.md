@@ -17,11 +17,11 @@ An EQ based on Dolby Atmos RC4 from @guitardedhero. Bloobs are known modded from
 ## Optional
 - AML 4.0 supported
 - ACDB supported (Android 10 and bellow only for now)
-- Use Audio Compatibility Patch if you encounter processing problem
 
 ## Troubleshooting
 - If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
+- Use Audio Compatibility Patch if you encounter processing problem.
 - Bass enhancer boost headphone is modified in v1.5 and up. If you don't like it, just rename dax-default.orig to dax-default.xml.
 
 ## Attention!
