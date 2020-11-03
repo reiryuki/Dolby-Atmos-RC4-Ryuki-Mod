@@ -15,8 +15,9 @@ An EQ based on Dolby Atmos RC4 from @guitardedhero. Bloobs are known modded from
 - Reboot
 
 ## Optional
-- AML 4.0 supported
-- ACDB supported (Android 10 and bellow only for now)
+- If using multiple audio mods, use one of these bellow, don't use both:
+  - AML 4.0 supported
+  - ACDB supported (Android 10 and bellow only for now)
 
 ## Troubleshooting
 - If Dolby force close, just reinstall again.
