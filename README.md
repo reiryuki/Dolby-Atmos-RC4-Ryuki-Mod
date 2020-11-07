@@ -28,6 +28,8 @@
 - Use Audio Compatibility Patch if you encounter processing problem.
 - Bass enhancer boost headphone is modified in v1.5 and up. If you don't like it, just rename dax-default.orig to dax-default.xml.
 - If se patch still fail even added to sepolicy.rule, then add `setenforce 0` to the top of service.sh.
+- If you have some issues, like ringtones, alarm tones doesn't work, or calls opposite person doesn't hear, [do this fix.](https://t.me/audioryukimods/543)
+
 
 ## Attention!
 - Reporting anything without sending full logcats and install process logs is ignored!
