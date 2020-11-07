@@ -20,6 +20,7 @@
 - If using multiple audio mods, use one of these bellow, don't use both:
   - AML 4.0 supported
   - ACDB supported (Android 10 and bellow only for now)
+- You can rename dap-default.xml to use more bass enhancer boost.
 
 ## Troubleshooting
 - If Dolby force close, just reinstall again.
@@ -31,6 +32,9 @@
 ## Attention!
 - Reporting anything without sending full logcats and install process logs is ignored!
 https://play.google.com/store/apps/details?id=com.dp.logcatapp
+- Send run also:
+  - `su`
+  - `dumpsys media.audio_flinger`
 
 ## Credits
 - @guitardedhero
