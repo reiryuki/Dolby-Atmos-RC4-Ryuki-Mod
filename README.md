@@ -1,4 +1,4 @@
-# Dolby Atmos RC4 Ryuki Mod
+# Dolby Atmos RC4 Ryuki Mod Magisk Module
 
 ## Descriptions
 - An EQ based on Dolby Atmos RC4 from @guitardedhero.
