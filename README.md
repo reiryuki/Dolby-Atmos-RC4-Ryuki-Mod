@@ -28,7 +28,7 @@
 - Use Audio Compatibility Patch if you encounter processing problem.
 - If se patch still fail even added to sepolicy.rule, then add `setenforce 0` to the top of service.sh.
 - If you have some issues, like ringtones, alarm tones doesn't work, or calls opposite person doesn't hear, [do this fix.](https://t.me/audioryukimods/543)
-
+- Fix library not loaded for non standard audio_effects.xml spacing, usually miui, tap [HERE](https://t.me/audioryukimods/593)
 
 ## Attention!
 - Reporting anything without sending full logcats and install process logs is ignored!
