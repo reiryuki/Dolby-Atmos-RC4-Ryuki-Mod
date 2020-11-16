@@ -2,7 +2,7 @@
 
 ## Descriptions
 - An EQ based on Dolby Atmos RC4 from @guitardedhero.
-- Bloobs known modded from ZTE A2019 Pro for 64 bit and Lenovo TB-7305I for 32 bit.
+- Blobs known modded from ZTE A2019 Pro for 64 bit and Lenovo TB-7305I for 32 bit.
 - Doesn't work with dynamic partitions
 
 ## Requirements
