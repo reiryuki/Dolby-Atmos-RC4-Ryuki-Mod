@@ -19,7 +19,7 @@
 - If using multiple audio mods, use one of these bellow, don't use both:
   - AML 4.0 supported
   - ACDB supported (Android 10 and bellow only for now)
-- You can rename dap-default.xml to use more bass enhancer boost.
+- You can rename dap-default extension to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/
 
 ## Troubleshooting
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
