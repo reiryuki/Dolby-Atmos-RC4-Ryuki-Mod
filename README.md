@@ -30,6 +30,7 @@
 - Make sure manifest.xml is patched correctly.
 - Use Audio Compatibility Patch if you encounter processing problem.
 - If you have some issues, like ringtones, alarm tones doesn't work, or calls opposite person doesn't hear, [do this fix.](https://t.me/audioryukimods/543)
+- If this still doesn't work, use RC1 instead.
 
 ## Attention!
 - Reporting anything without sending full logcats and install process logs is ignored!
@@ -40,6 +41,13 @@ https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 ## Credits
 - @guitardedhero
+
+## Groups discussion
+- https://t.me/joinchat/E-On6U9cxckhIlAnoPIYpw
+- https://t.me/@modsandco
+
+## Donate
+- https://www.paypal.me/reiryuki
 
 
            - Enjoy the Atmos 🎧 -
