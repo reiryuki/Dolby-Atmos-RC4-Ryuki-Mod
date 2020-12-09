@@ -44,7 +44,6 @@ https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 ## Telegram
 - https://t.me/audioryukimods
-- https://t.me/joinchat/E-On6U9cxckhIlAnoPIYpw
 - https://t.me/modsandco
 
 ## Donate
