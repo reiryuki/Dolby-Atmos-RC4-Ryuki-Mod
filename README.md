@@ -55,6 +55,8 @@
   Run at Terminal Emulator before flash:
   - `su`
   - `setprop dolby.force.permissive 1`
+  After that, flash/reflash the module.
+
 - If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
 - Use Audio Compatibility Patch if you encounter processing problem. But usually don't need.
