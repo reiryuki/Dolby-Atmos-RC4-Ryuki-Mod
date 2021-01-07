@@ -61,7 +61,7 @@
 - Make sure manifest.xml is patched correctly.
 - Use Audio Compatibility Patch if you encounter processing problem. But usually don't need.
 - If anything goes wrong, see your logcats
-  - "CANNOT LINK EXECUTABLE" mean your hardware is not supported
+  - "CANNOT LINK EXECUTABLE" mean your audio hw library is not supported
 
 ## Attention!
 - Reporting anything without sending full logcats and install process logs is ignored!
