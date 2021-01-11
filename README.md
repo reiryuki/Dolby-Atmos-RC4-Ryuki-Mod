@@ -83,6 +83,9 @@ https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 ## Credits
 - @guitardedhero
+- @aip_x
+- @aquahol
+- @BanCodrut
 
 ## Telegram
 - https://t.me/audioryukimods
