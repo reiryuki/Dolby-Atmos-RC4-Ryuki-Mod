@@ -10,7 +10,7 @@
 - Magisk installed
 
 ## Installation Guide
-- Remove another Dolby module
+- Remove another Dolby module with different name
 - Reboot
 - Install via Magisk Manager only
 - Reboot
@@ -27,7 +27,7 @@
 
   `setprop` `dolby.force.disable.dirac` `1`
 
-  After that, flash/reflash the module.
+  After that, reflash the module.
 
 - You can disable your in-built MI Sound FX if you sure it's conflicting with Dolby. Run at Terminal Emulator before flashing
   the module:
@@ -36,7 +36,7 @@
 
   `setprop` `dolby.force.disable.misoundfx` `1`
 
-  After that, flash/reflash the module.
+  After that, reflash the module.
 
 ## Troubleshootings
 - If Dolby effect is not triggered, then you need to enable Dolby data clean-up. Run at Terminal Emulator before flashing
@@ -46,16 +46,27 @@
 
   `setprop` `dolby.force.cleanup` `1`
 
-  After that, flash/reflash the module.
+  After that, reflash the module.
 
 - If you using Xposed, Riru EdXposed, or Taichi Magisk Module, exclude Dolby apps from their list to prevent SE policy patch denials.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
 - If installation failed with error "No space left on device", that is mean you using dynamic partitions.
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
   Run at Terminal Emulator before flash:
+
   - `su`
+
   - `setprop dolby.force.permissive 1`
-  After that, flash/reflash the module.
+
+  After that, reflash the module.
+
+- You can also use both permissive mode and SE policy rule if necessary:
+
+  - `su`
+
+  - `setprop dolby.force.permissive 2`
+
+  After that, reflash the module.
 
 - If Dolby force close, just reinstall again.
 - Make sure manifest.xml is patched correctly.
