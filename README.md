@@ -86,6 +86,7 @@ https://play.google.com/store/apps/details?id=com.dp.logcatapp
 - @aip_x
 - @aquahol
 - @BanCodrut
+- All people that helped and tested my modules
 
 ## Telegram
 - https://t.me/audioryukimods
