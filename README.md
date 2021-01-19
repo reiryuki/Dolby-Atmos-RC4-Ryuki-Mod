@@ -12,7 +12,7 @@
 ## Installation Guide
 - Remove another Dolby module with different name
 - Reboot
-- Install via Magisk Manager only
+- Install via Magisk Manager or Recovery (v2.1)
 - Reboot
 
 ## Optional
