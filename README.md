@@ -19,7 +19,7 @@
 - If using multiple audio mods, use one of these bellow, don't use both:
   - AML 4.0 supported
   - ACDB supported (Android 10 and bellow only for now)
-- You can rename any dap-default extension to .xml to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Rename another .xml to .mod. Delete /data/vendor/dolby/dap_sqlite3.db if there before reboot.
+- You can rename any other dap-default to dap-default.xml to use more bass enhancer boost. See /data/adb/modules_update/DolbyAtmos/system/vendor/etc/dolby/. Rename another .xml to .mod. Delete /data/vendor/dolby/dap_sqlite3.db if there before reboot.
 - You can disable your in-built Dirac audio FX if you sure it's conflicting with Dolby. Run at Terminal Emulator before flashing
   the module:
 
