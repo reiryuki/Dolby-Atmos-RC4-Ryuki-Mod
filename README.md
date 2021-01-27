@@ -2,7 +2,7 @@
 
 ## Descriptions
 - An EQ based on Dolby Atmos RC4 from @guitardedhero.
-- Blobs from ZTE A2019 Pro for 64 bit and Lenovo TB-7305I for 32 bit.
+- Blobs from ZTE A2019 Pro for 64 bit, Lenovo TB-7305I for 32 bit, & apk's from Razer Phone.
 - Doesn't work with dynamic partitions except dolby dms 1.0 HIDL is already present in ROM manifest.xml. It would be better to ask to the ROM builder to add it.
 
 ## Requirements
