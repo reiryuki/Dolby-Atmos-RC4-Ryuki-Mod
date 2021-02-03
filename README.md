@@ -13,7 +13,7 @@
 - Remove another Dolby module with different name
 - Reboot
 - Install via Magisk Manager or Recovery
-- Reboot
+- Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
 - If using multiple audio mods, use one of these bellow, don't use both!:
@@ -51,6 +51,7 @@
 - If you using Xposed, Riru EdXposed, or Taichi Magisk Module, exclude Dolby apps from their list to prevent SE policy patch denials.
 - If installation failed with "I/O error", then you need to disable DM-Verity of your ROM first.
 - If installation failed with error "Read-only file system" or "No space left on device", that is mean you using dynamic partitions.
+- For dynamic partitions, you should use ROM which is RW build and at least 1 MB free left of system or vendor, such as LineageOS.
 - If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
   Run at Terminal Emulator before flash:
 
@@ -68,7 +69,7 @@
 
   After that, reflash the module.
 
-- If Dolby force close, just reinstall again.
+- If Dolby force close, reboot twice (don't reflash). It's probably Magisk sepolicy.rule bug.
 - Make sure manifest.xml is patched correctly.
 - If anything goes wrong, see your logcats
   - "CANNOT LINK EXECUTABLE" mean your audio hw library is not supported
