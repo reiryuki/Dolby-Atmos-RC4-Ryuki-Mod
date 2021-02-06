@@ -74,12 +74,10 @@
 - If anything goes wrong, see your logcats
   - "CANNOT LINK EXECUTABLE" mean your audio hw library is not supported
 
-## Attention!
-- Reporting anything without sending full logcats and install process logs is ignored!
-https://play.google.com/store/apps/details?id=com.dp.logcatapp
-- Send run also:
-  - `su`
-  - `dumpsys media.audio_flinger`
+## Report Guide
+- Send me full logcats using this app https://play.google.com/store/apps/details?id=com.dp.logcatapp
+- Send all "audio_effects" files in system/etc and vendor/etc
+- If you don't do above, it will be closed immediately
 
 ## Credits
 - @guitardedhero
