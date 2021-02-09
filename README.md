@@ -81,6 +81,7 @@
 
 ## Credits
 - @guitardedhero
+- @Foxtrot47
 - @aip_x
 - @aquahol
 - @BanCodrut
