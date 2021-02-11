@@ -33,11 +33,7 @@
 - @BanCodrut
 
 ## Supports
-- Laugeek
-
-## Telegram
-- https://t.me/audioryukimods
-- https://t.me/modsandco
+- [Tap here](https://t.me/audioryukimods/2619)
 
 ## Donate
 - https://www.paypal.me/reiryuki
