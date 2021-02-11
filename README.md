@@ -73,19 +73,22 @@
 - Make sure manifest.xml is patched correctly.
 - If anything goes wrong, see your logcats
   - "CANNOT LINK EXECUTABLE" mean your audio hw library is not supported
+- RC4 is using different UUID effects besides other dolby modules like OP8V for example. RC4 UUID is 74697567-7261-6564-6864-65726f206678. OP8V and other dolby UUID is 9d4921da-8225-4f29-aefa-39537a04bcaa. You can't use RC4 UI (nor the modded one's) nor service apk for another common dolby module and vice-versa
 
 ## Report Guide
 - Send me full logcats using this app https://play.google.com/store/apps/details?id=com.dp.logcatapp
 - Send all "audio_effects" files in system/etc and vendor/etc
 - If you don't do above, it will be closed immediately
 
-## Credits
+## Credits and contributors
 - @guitardedhero
 - @Foxtrot47
 - @aip_x
 - @aquahol
 - @BanCodrut
-- All people that helped and supports
+
+## Supports
+- Laugeek
 
 ## Telegram
 - https://t.me/audioryukimods
