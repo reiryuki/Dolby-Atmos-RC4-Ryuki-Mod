@@ -16,13 +16,13 @@
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
-- Tap [here](https://t.me/audioryukimods/2616)
+- [Tap here](https://t.me/audioryukimods/2616)
 
 ## Troubleshootings
-- Tap [here](https://t.me/audioryukimods/2617)
+- [Tap here](https://t.me/audioryukimods/2617)
 
 ## Report Guide
-- Tap [here](https://t.me/audioryukimods/2618)
+- [Tap here](https://t.me/audioryukimods/2618)
 - If you don't do above, it will be closed immediately
 
 ## Credits and contributors
