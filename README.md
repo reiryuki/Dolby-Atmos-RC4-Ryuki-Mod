@@ -13,7 +13,7 @@
 - Remove another Dolby module with different name
 - Reboot
 - Install via Magisk Manager or Recovery
-- See "Optional" section it you using other audio mods
+- See "Optional" section if you using other audio mods
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
