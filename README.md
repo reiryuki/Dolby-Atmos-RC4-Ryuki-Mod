@@ -8,11 +8,15 @@
 - Android 9, 10, or 11
 - Magisk installed
 
+## Warning!!!
+- Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
+- This will bootloop in OnePlus stock ROM. Use Dolby Atmos OnePlus 8 Visible instead or use custom ROM.
+
 ## Installation Guide
 - Remove another Dolby module with different name
 - Reboot
 - Install via Magisk Manager or Recovery
-- See "Optional" section if you using other audio mods
+- See "Troubleshootings" section if you using other audio mods
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
@@ -21,7 +25,7 @@
 ## Troubleshootings
 - https://t.me/audioryukimods/2617
 
-## Report Guide
+## Bug Report
 - https://t.me/audioryukimods/2618
 - If you don't do above, it will be closed immediately
 
@@ -32,10 +36,8 @@
 - @aquahol
 - @BanCodrut
 
-## Thanks for Supports
+## Thanks for Donations
 - https://t.me/audioryukimods/2619
-
-## Donate
 - https://www.paypal.me/reiryuki
 
 
