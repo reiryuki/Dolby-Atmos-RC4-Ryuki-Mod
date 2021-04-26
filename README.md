@@ -3,6 +3,7 @@
 ## Descriptions
 - An EQ based on Dolby Atmos RC4 from @guitardedhero.
 - Blobs from ZTE A2019 Pro for 64 bit, Lenovo TB-7305I for 32 bit, & apk's from Razer Phone.
+- Global type soundfx
 
 ## Requirements
 - Android 9, 10, or 11
