@@ -36,6 +36,7 @@
 - @aip_x
 - @aquahol
 - @BanCodrut
+- @adi153
 
 ## Thanks for Donations
 - https://t.me/audioryukimods/2619
