@@ -11,7 +11,6 @@
 
 ## Warning!!!
 - Prepare for possibility of bootloop or even brick because this is not a pure Magisk Module
-- This will bootloop in OnePlus stock ROM/vendor. Use Dolby Atmos OnePlus 8 Visible instead or use custom ROM and vendor.
 
 ## Installation Guide
 - Remove another Dolby module with different name
