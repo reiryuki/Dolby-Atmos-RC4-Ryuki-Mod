@@ -1,12 +1,11 @@
-# Dolby Atmos RC4 Ryuki Mod Magisk Module
+# Dolby Atmos ZTE A2019 Pro Magisk Module
 
 ## Descriptions
-- An EQ based on Dolby Atmos RC4 from @guitardedhero.
-- Blobs from ZTE A2019 Pro for 64 bit, Lenovo TB-7305I for 32 bit, & apk's from Razer Phone.
+- An EQ ported from ZTE A2019 Pro based on Dolby Atmos RC4 by @guitardedhero.
 - Global type soundfx
 
 ## Requirements
-- Android 9, 10, or 11
+- Android 9 until 12
 - Magisk installed
 
 ## Warning!!!
