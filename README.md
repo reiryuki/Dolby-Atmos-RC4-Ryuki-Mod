@@ -1,7 +1,7 @@
 # Dolby Atmos ZTE A2019 Pro Magisk Module
 
 ## Descriptions
-- An EQ ported from ZTE A2019 Pro based on Dolby Atmos RC4 by @guitardedhero.
+- An EQ ported from ZTE A2019 Pro based on Dolby Atmos RC4 and RC1 by @guitardedhero.
 - Global type soundfx
 
 ## Requirements
