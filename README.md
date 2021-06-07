@@ -25,7 +25,7 @@
 - https://t.me/androidryukimodsdiscussions/2617
 
 ## Bug Report
-- https://t.me/audioryukimods/2618
+- https://t.me/androidryukimodsdiscussions/2618
 - If you don't do above, it will be closed immediately
 
 ## Credits and contributors
